@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1632913196 source:c:\users\dell\onedrive\desktop\nti c programming\ds linked stack\student_management_system\design.c
+	"Design.h"
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"Linked Stack.h"
+
+1632415326 c:\users\dell\onedrive\desktop\nti c programming\ds linked stack\student_management_system\design.h
+
+1632953305 c:\users\dell\onedrive\desktop\nti c programming\ds linked stack\student_management_system\linked stack.h
+
+1632920306 source:c:\users\dell\onedrive\desktop\nti c programming\ds linked stack\student_management_system\linked stack.c
+	"Linked Stack.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"Design.h"
+
+1632913191 source:c:\users\dell\onedrive\desktop\nti c programming\ds linked stack\student_management_system\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"Design.h"
+	"Linked Stack.h"
+
